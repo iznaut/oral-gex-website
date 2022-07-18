@@ -5,21 +5,36 @@ body {
   cursor: url("images/cursor.png"), auto;
 }
 
-a, h1 {
-  color:green;
+a {
+  color: green;
   background-color: black;
+  width: auto;
+  padding: 0.25em;
+}
+
+a:hover {
+  color:green;
   width: auto;
   cursor: url("images/cursor-hover.png"), auto;
 }
 
 .container {
-  width: 60%;
+  width: 80%;
   display: block;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  margin-bottom: 6em;
 }
 
 .logo {
-  max-width: 60%;
+  max-width: 50%;
+}
+
+.badges {
+  margin: 2em;
+}
+
+.badges > div {
+  margin: 1em;
 }
