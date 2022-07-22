@@ -1,7 +1,7 @@
 body {
   background-image: url("images/bg.png");
   background-repeat: repeat;
-  color:greenyellow;
+  color: greenyellow;
   cursor: url("images/cursor.png"), auto;
 }
 
@@ -13,12 +13,13 @@ a {
 }
 
 a:hover {
-  color:green;
+  color: green;
   width: auto;
   cursor: url("images/cursor-hover.png"), auto;
 }
 
-.container, footer {
+.container,
+footer {
   width: 70%;
   display: block;
   margin-left: auto;
@@ -38,12 +39,46 @@ a:hover {
   margin: 2em;
 }
 
-.badges > div {
+.badges>div {
   margin: 1em;
 }
 
+.pixel-art {
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+
+.img-sm {
+  width: 5em;
+}
+
+.img-md {
+  width: 7em;
+}
+
+.img-lg {
+  width: 10em;
+}
+
+.gex-image {
+  position: relative;
+  top: -180px;
+}
+
+.gif-wrapper {
+  height: 20px;
+}
+
+h1 img {
+  vertical-align: middle;
+}
+
 @media only screen and (max-width: 600px) {
-  .container, footer {
+
+  .container,
+  footer {
     width: 100%;
   }
 
@@ -62,4 +97,21 @@ a:hover {
   h2 {
     font-size: 1.75em;
   }
+
+  .img-sm {
+    width: 2em;
+  }
+
+  .img-md {
+    width: 3em;
+  }
+
+  .img-lg {
+    width: 7em;
+  }
+}
+
+#app {
+  /* padding: 5em; */
+  height: 350px;
 }
