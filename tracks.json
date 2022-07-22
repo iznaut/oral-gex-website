@@ -1,9 +1,17 @@
 [
     {
         "metaData": {
-        "artist": "Oral Gex",
-        "title": "Episode 0"
+            "artist": "Oral Gex",
+            "title": "Episode 1"
+        },
+        "url": "episodes/episode-1-don-t-drink-the-tap-water-at-jerry-garcia-s.mp3",
+        "duration": 4425
     },
+    {
+        "metaData": {
+            "artist": "Oral Gex",
+            "title": "Episode 0"
+        },
         "url": "episodes/episode-0-what-to-expect-when-you-re-gexpecting.mp3",
         "duration": 1902
     }
