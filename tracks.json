@@ -2,6 +2,14 @@
     {
         "metaData": {
             "artist": "Oral Gex",
+            "title": "Episode 2"
+        },
+        "url": "episodes/episode-2-my-inner-child-is-coming-out-and-it-hurts.mp3",
+        "duration": 3511
+    },
+    {
+        "metaData": {
+            "artist": "Oral Gex",
             "title": "Episode 1"
         },
         "url": "episodes/episode-1-don-t-drink-the-tap-water-at-jerry-garcia-s.mp3",
