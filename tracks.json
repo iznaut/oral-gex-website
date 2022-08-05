@@ -2,6 +2,14 @@
     {
         "metaData": {
             "artist": "Oral Gex",
+            "title": "Episode 3"
+        },
+        "url": "episodes/episode-3-if-i-had-a-life-i-d-be-glad-to-get-back-to-it.mp3",
+        "duration": 3331
+    },
+    {
+        "metaData": {
+            "artist": "Oral Gex",
             "title": "Episode 2"
         },
         "url": "episodes/episode-2-my-inner-child-is-coming-out-and-it-hurts.mp3",
