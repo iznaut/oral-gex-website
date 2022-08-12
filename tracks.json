@@ -2,6 +2,14 @@
     {
         "metaData": {
             "artist": "Oral Gex",
+            "title": "Episode 4"
+        },
+        "url": "episodes/episode-4-helium-makes-my-voice-do-this.mp3",
+        "duration": 3057
+    },
+    {
+        "metaData": {
+            "artist": "Oral Gex",
             "title": "Episode 3"
         },
         "url": "episodes/episode-3-if-i-had-a-life-i-d-be-glad-to-get-back-to-it.mp3",
