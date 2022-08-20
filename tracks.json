@@ -2,6 +2,14 @@
     {
         "metaData": {
             "artist": "Oral Gex",
+            "title": "Episode 5"
+        },
+        "url": "episodes/episode-5-gex-flies-and-videotape.mp3",
+        "duration": 2910
+    },
+    {
+        "metaData": {
+            "artist": "Oral Gex",
             "title": "Episode 4"
         },
         "url": "episodes/episode-4-helium-makes-my-voice-do-this.mp3",
